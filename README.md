@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KavinsTechCraft
-- 👀 I’m interested in web and 
+- 👋 Hi, I’m @Kavins
+- 👀 I’m interested in web dev
 - 🌱 I’m currently learning java
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
